@@ -1,1 +1,1 @@
-ruby -rubygems andmyaxe.rb
+rackup config.ru
